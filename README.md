@@ -1,0 +1,2 @@
+# shiriyuoftherain.github.io
+root
